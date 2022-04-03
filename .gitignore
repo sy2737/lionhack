@@ -1,0 +1,9 @@
+.env*
+/node_modules/*
+/client/data/*
+/client/node_modules/*
+.DS_Store
+/artifacts/*
+/cache/*
+/client/src/contracts/*
+/build/*
